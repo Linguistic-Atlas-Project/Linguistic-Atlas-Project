@@ -1,2 +1,2 @@
 # Linguistic-Atlas-Project
-Online repository of digitized LAP materials
+Online repository of available LAP data
