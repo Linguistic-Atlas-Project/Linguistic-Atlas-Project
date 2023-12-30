@@ -1,6 +1,6 @@
 # Linguistic-Atlas-Project Repository
 
-Welcome to the Linguistic Atlas Project (LAP) repository. Here, we have compiled a comprehensive collection of text data from various LAP projects. These datasets are organized into standard ZIP files, making them easily accessible for researchers, linguists, and enthusiasts interested in exploring the linguistic diversity of the United States.
+Welcome to the repository of the Linguistic Atlas Project (LAP). This repository serves as a centralized collection of text data from the various LAP projects.
 
 **Director**: Allison Burkette  
 **Email**: [allison.burkette@uky.edu](mailto:allison.burkette@uky.edu)  
@@ -8,7 +8,13 @@ Welcome to the Linguistic Atlas Project (LAP) repository. Here, we have compiled
 **Email**: [jhwi234@uky.edu](mailto:jhwi234@uky.edu)
 
 ## Project Datasets
-The datasets are meticulously organized and compressed using standard ZIP compression. Each file contains a complete set of text data (txt, csv, doc, docx, xlsx, xls, and py) relevant to a specific LAP project. Here is a list of the available datasets:
+This repository contains ZIP-compressed folders, each representing a specific LAP project. The folders encompass a wide array of text-based data (formats: txt, csv, doc, docx, xlsx, xls, xml), including:
+
+- Responses: Survey answers from participants.
+- Informant Details: Background information of data contributors.
+- Interview Transcripts: Recorded and transcribed interviews.
+
+Some larger project folders are divided into parts for easier access. Here is a list of the available datasets:
 
 - DASS_part1.zip
 - DASS_part2.zip
@@ -44,11 +50,11 @@ The datasets are meticulously organized and compressed using standard ZIP compre
 - LAWS.zip
 - LSL.zip
 
-As we continue to process more data, additional datasets will be added and existing ones will be updated, ensuring a continually evolving resource.
+We periodically update these datasets with new information and additional data.
 
 ## Data Access & Usage
 ### Extracting Data
-To access the datasets, you need software capable of extracting standard ZIP files, which is typically built into most operating systems.
+To access the datasets, you need software capable of extracting standard ZIP files.
 
 #### Windows:
 Right-click on the ZIP file and choose "Extract All..." Follow the on-screen instructions to extract the data.
@@ -56,16 +62,13 @@ Right-click on the ZIP file and choose "Extract All..." Follow the on-screen ins
 #### Mac:
 Double-click the ZIP file to automatically extract its contents.
 
-#### Linux:
-Use the command `unzip filename.zip` in your terminal.
-
 ### Additional Resources
 To complement these datasets, explore:
 - [Linguistic Atlas Project Main Site](https://linguisticatlasproject.org/) for image files from the same projects.
 - [Old LAP website](https://www.lap.uga.edu/Projects/) for archived data and additional resources.
 
 ## Contribution & Queries
-We welcome queries and insights while we develop detailed contribution guidelines. Please contact us via the emails listed above or open an issue on this GitHub repository for assistance.
+Please contact us via the emails listed above or open an issue on this GitHub repository for assistance.
 
 ## License
 These datasets are distributed under the GNU GENERAL PUBLIC LICENSE. See the LICENSE file for detailed terms and conditions.
