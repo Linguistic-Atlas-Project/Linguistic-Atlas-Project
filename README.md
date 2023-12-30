@@ -4,7 +4,7 @@ Welcome to the repository of the Linguistic Atlas Project (LAP). This repository
 
 **Director**: Allison Burkette  
 **Email**: [allison.burkette@uky.edu](mailto:allison.burkette@uky.edu)  
-**Repository Creator**: John Winstead  
+**Repository Maintainer**: John Winstead  
 **Email**: [jhwi234@uky.edu](mailto:jhwi234@uky.edu)
 
 ## Project Datasets
